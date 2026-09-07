@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shortelldesigns.github.io/wildlife-control-index/sitemap.xml
