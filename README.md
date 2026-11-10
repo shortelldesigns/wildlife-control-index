@@ -2,7 +2,7 @@
 
 Open `index.html` in a browser. No build step required.
 
-Compiled by **Stephen Shortell**. Unpaid directory. Names transcribed from official lists only.
+Compiled by **Shortell Designs**. Unpaid directory. Names transcribed from official lists only.
 
 ## Publish on GitHub Pages (free)
 
@@ -17,7 +17,7 @@ Relative links work on a project-pages subpath.
 
 | State | What shipped | Count | Source |
 | --- | --- | ---: | --- |
-| Ohio | CNWACO public listings | 621 | ODNR PDF Q2 2026, updated 2026-06-30 (`dow-list-cnwaco-current-license-holders.pdf`) |
+| Ohio | CNWACO public listings | 752 | ODNR PDF Q3 2026, updated 2026-10-15, retrieved 2026-11-10 (`dow-list-cnwaco-current-license-holders.pdf`) |
 | New York | Currently licensed NWCOs | 1204 | NYSDEC Open Data 868p-5nmh |
 | Massachusetts | Verify-only | 0 names | Mass.gov PAC finder is a map/list widget; names not in HTML |
 
